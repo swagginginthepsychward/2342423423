@@ -1,46 +1,4 @@
 
-_G.esptable = {
-    name = false,
-    name_color = Color3.fromRGB(255, 255, 255),
-    box = false,
-    box_filled = false,
-    box_color = Color3.fromRGB(255, 255, 255),
-    box_filled_color = Color3.fromRGB(255, 255, 255),
-    box_opacity = 50,
-    health_bar = false,
-    health_bar_top_color = Color3.fromRGB(0, 255, 0),
-    health_bar_bottom_color = Color3.fromRGB(255, 0, 0),
-    health_bar_thickness = 2,
-    health_bar_side = "Left",
-    distance = false,
-    distance_color = Color3.fromRGB(255, 255, 255),
-    flags = false,
-    flags_type = "",
-    arrows = false,
-    arrows_from = "Screen",
-    arrows_color = Color3.fromRGB(255, 255, 255),
-    skeletons = false,
-    skeleton_thickness = 1,
-    visible_icons = false,
-    chams = false,
-    chams_color = Color3.fromRGB(255, 255, 255),
-    chams_opacity = 50,
-    chams_type = "Always",
-    max_distance = 500,
-    lerp_health = false,
-    target_color = Color3.fromRGB(255, 255, 255),
-    animate_chams = false,
-    arrow_radius = 150,
-    arrow_size = 20,
-    include_ai = false,
-    highlight_esp = false,
-    highlight_accent = Color3.fromRGB(255, 255, 255),
-    held_item = false,
-    held_item_color = Color3.fromRGB(255, 255, 255)
-}
-
-
-
 	local WantedV2 = {
     target = {
 		entry = nil, 
